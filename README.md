@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A AI developer from Türkiye</h3>
 
-- 📫 How to reach me **canemircan38@mail.com**
+- 📫 How to reach me **canemircan38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
